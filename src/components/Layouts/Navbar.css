@@ -1,0 +1,17 @@
+.mega-menu li :hover{
+    cursor: pointer;
+    background-color: rgb(149, 184, 250);
+}
+
+.dropdown:hover .dropdown-menu{
+    cursor: pointer;
+    font-family: bold;
+    display: block;
+    text-align: center;
+    background-color: rgb(252, 251, 247);
+}
+
+
+.img-styl:hover{
+    cursor: pointer;
+}

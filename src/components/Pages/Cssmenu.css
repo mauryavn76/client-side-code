@@ -1,0 +1,31 @@
+.body{
+    height: 900px;
+}
+.div{
+    display: flex;
+}
+
+.nav{
+    width: 100%;
+    justify-content: center;
+}
+
+.nav-text{
+    width: 100%;
+    justify-content: space-around;
+    padding: 1rem;
+}
+
+.nav-text h1 {
+    font-size: 1.5rem;
+    transform: 0.25s;
+}
+.nav-text h1:hover{
+    color: grey;
+    cursor: pointer; 
+}
+
+.scrolled{
+    position: flex;
+    background-color: aqua;
+}
