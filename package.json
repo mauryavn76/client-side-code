@@ -1,7 +1,7 @@
 {
   "name": "viser-technosys-website",
   "version": "0.1.0",
-  "private": true,
+  "private": truehard,
   "dependencies": {
     "@types/react-scroll": "^1.5.4",
     "@types/reactstrap": "^8.0.1",
