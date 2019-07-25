@@ -1,5 +1,5 @@
 import React from 'react';
-import 'bootstrap/dist/css/bootstrap.min.css'
+import 'bootstrap/dist/ hello css/bootstrap.min.css'
 import NavBar  from './components/Layouts/navbar'
 import FooterLayout from './components/Layouts/footer';
 import { Home } from './components/Pages/Home';
