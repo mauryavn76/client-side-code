@@ -10,7 +10,7 @@ import  Whyviser  from './components/Pages/Whyviser';
 import { Travel } from './components/Pages/Travel';
 
 
-<h1>Hello</h1>
+
 function App() {
   return (
     <div className="App" >
